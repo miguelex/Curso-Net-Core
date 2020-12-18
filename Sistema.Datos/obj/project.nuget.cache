@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++mFIEuMfhb3OyJhNbuqls3L4/Wg0PsQfM7jOOueKZ+RfeACQQEvx41OsJiDBBW4ceTXxRnKHksy3RIlZLNy1g==",
+  "dgSpecHash": "KmcEH7xIROnLB2JdJpCxm9bHi9VUZgHkip6veID3R1sdgbRWlaDJh0rohFDjkWhTtsdbYl++7iPf5XSVXpe6iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj",
+  "projectFilePath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.2\\microsoft.entityframeworkcore.2.1.2.nupkg.sha512",

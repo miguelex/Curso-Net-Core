@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecEUCofclnT/GnsYTRAeNBytT8+8EIacP7qVOFRPid6SBgrW1CvzrPkOutECcMbXW7NZLCuBWG+KYJzwOPUXWg==",
+  "dgSpecHash": "qKRJb9Y7qv3L3WHfIcm5NAEteQez8ZIG1exXGLvR7TpvAD6suSFRAm9jrcYPruhEdeavvxoKS/8SDuSIJ94fzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj",
+  "projectFilePath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

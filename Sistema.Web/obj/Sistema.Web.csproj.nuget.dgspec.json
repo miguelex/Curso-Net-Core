@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj": {}
+    "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj": {
+    "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj",
         "projectName": "Sistema.Datos",
-        "projectPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj",
+        "projectPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\obj\\",
+        "outputPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj": {
-                "projectPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj"
+              "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+                "projectPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+    "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "projectName": "Sistema.Entidades",
-        "projectPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj": {
+    "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj",
         "projectName": "Sistema.Web",
-        "projectPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj",
+        "projectPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\Sistema.Web.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\obj\\",
+        "outputPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -165,11 +165,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj": {
-                "projectPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj"
+              "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj": {
+                "projectPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Datos\\Sistema.Datos.csproj"
               },
-              "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj": {
-                "projectPath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj"
+              "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+                "projectPath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj"
               }
             }
           }

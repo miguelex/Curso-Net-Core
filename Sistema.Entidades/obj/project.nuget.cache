@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIu3JK3E3P2dqG2proYGIOEvyIhAeMEJCO1RKBnDZ9xYvG3JC+txodcbiCb8q7dwPIJcM/wYzfhnUZe34ErRdQ==",
+  "dgSpecHash": "cojW8L5GsiPIij42DPaXeTgNMCMc2hZHh5Udb1FiZEZTAuY1vAEWQKIoLXcDMe4dXFg/0GBP3xAsOClsd8WujQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Source\\Repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj",
+  "projectFilePath": "C:\\Users\\migue\\source\\repos\\miguelex\\Curso-Net-Core\\Sistema.Entidades\\Sistema.Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
